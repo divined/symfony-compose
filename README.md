@@ -13,7 +13,7 @@ MariaDB docker container image.
 PHP docker image for symfony 4.
 
 3. [divined/symfony-nginx](https://github.com/divined/symfony-nginx)
-NGINX docker container for symfony
+NGINX docker container for symfony 4.
 
 4. [mailhog/mailhog](https://github.com/mailhog/MailHog)
 Web and API based SMTP testing
