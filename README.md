@@ -4,6 +4,8 @@ Copy [docker-compose.yml](https://raw.githubusercontent.com/divined/symfony-comp
 
 docker-compose up -d
 
+[http://localhost:8080](http://localhost:8080)
+
 ## Docker Images
 
 1. [wodby/mariadb](https://github.com/wodby/mariadb)
