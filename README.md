@@ -1,6 +1,6 @@
 # symfony-compose
 
-Copy https://raw.githubusercontent.com/divined/symfony-compose/master/docker-compose.yml to symfony base directory.
+Copy [docker-compose.yml](https://raw.githubusercontent.com/divined/symfony-compose/master/docker-compose.yml) to symfony base directory.
 
 docker-compose up -d
 
