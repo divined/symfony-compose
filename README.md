@@ -10,7 +10,7 @@ docker-compose up -d
 MariaDB docker container image.
 
 2. [divined/symfony-php](https://github.com/divined/symfony-php)
-PHP docker image for symfony 4.
+PHP docker image for symfony.
 
 3. [divined/symfony-nginx](https://github.com/divined/symfony-nginx)
 NGINX docker container for symfony 4.
